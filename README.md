@@ -1,1 +1,1 @@
-Three.js �ō쐬������i
+Three.js で作成したサイコロスロットです
