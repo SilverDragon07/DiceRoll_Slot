@@ -4,4 +4,4 @@ Created by Tatsuki Yamada
 
 実際に遊ぶにはこちら↓
 
-https://SilverDragon07.github.io/DiceRoll_Slot
+https://Tatsuki-Yamada.github.io/DiceRoll_Slot
